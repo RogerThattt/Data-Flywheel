@@ -1,2 +1,2 @@
 # Data-Flywheel
-the data flywheel turns raw data into a durable competitive advantage. Over time, it transforms operational efficiency, customer experience, and revenue growth
+The data flywheel turns raw data into a durable competitive advantage. Over time, it transforms operational efficiency, customer experience, and revenue growth
