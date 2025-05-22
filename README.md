@@ -1,2 +1,2 @@
 # Data-Flywheel
-The data flywheel is a strategic concept where the continuous generation and use of data creates a self-reinforcing cycle
+the data flywheel turns raw data into a durable competitive advantage. Over time, it transforms operational efficiency, customer experience, and revenue growth
